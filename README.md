@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0020-valid-parentheses](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
