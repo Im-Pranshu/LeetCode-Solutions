@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0018-4sum](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0020-valid-parentheses](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0165-compare-version-numbers](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
