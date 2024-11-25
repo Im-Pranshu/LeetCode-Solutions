@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0015-3sum](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -96,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0104-maximum-depth-of-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0104-maximum-depth-of-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0104-maximum-depth-of-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
