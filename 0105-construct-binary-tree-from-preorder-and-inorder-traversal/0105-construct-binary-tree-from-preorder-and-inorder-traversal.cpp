@@ -11,19 +11,15 @@
  */
 class Solution {
 public:
-
-    int findPosition(vector<int> &inorder, int element, int inOrderStart, int inOrderEnd) {
-        // int idx;
-        for (int i = inOrderStart; i <= inOrderEnd; i++) {
-            if (inorder[i] == element) {
-                return i;
-            }
+    // mapping values of inorder in map with index
+    void createMapping(map<int,int> & mp, vector<int> in, int n){
+        for(int i=0; i<n; i++){
+            mp[in[i]] = i;
         }
-        return -1; // Element not found (should not happen in a valid input)
     }
 
     
-    TreeNode* solve(vector<int> inorder, vector<int> preorder, int &index, int inOrderStart, int inOrderEnd, int n){
+    TreeNode* solve(vector<int> inorder, vector<int> preorder, int &index, int inOrderStart, int inOrderEnd, int n, map<int,int> & nodeToIndex){
         // base case
         if(index >= n || inOrderStart > inOrderEnd) {
             return NULL;
@@ -33,20 +29,28 @@ public:
         int element = preorder[index++];
         TreeNode* root = new TreeNode(element);
         
-        // int position = findPosition(inorder, element, n);
-        int position = findPosition(inorder, element, inOrderStart, inOrderEnd);
+        int position = nodeToIndex[element];
+        // int position = findPosition(inorder, element, inOrderStart, inOrderEnd);
 
         
-        root->left = solve(inorder, preorder, index, inOrderStart, position-1, n);
-        root->right = solve(inorder, preorder, index, position+1, inOrderEnd, n);
+        // traverse left and right
+        root->left = solve(inorder, preorder, index, inOrderStart, position-1, n, nodeToIndex);
+        root->right = solve(inorder, preorder, index, position+1, inOrderEnd, n, nodeToIndex);
         
         return root;
     }   
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int preOrderIndex = 0;
+        int preOrderIndex = 0;// this will keep the track of the preorder.
+
         int n = inorder.size();
-        TreeNode* root = solve(inorder, preorder, preOrderIndex , 0 , n-1, n );
+
+        map<int, int> nodeToIndex;
+        // create mapping of preorder values with their index
+        createMapping(nodeToIndex, inorder, n);
+
+        // create tree with in and pre order
+        TreeNode* root = solve(inorder, preorder, preOrderIndex , 0 , n-1, n , nodeToIndex);
         return root;
     }
 };
