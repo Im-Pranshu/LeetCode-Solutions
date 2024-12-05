@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0035-search-insert-position](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0102-binary-tree-level-order-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0102-binary-tree-level-order-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -131,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0199-binary-tree-right-side-view](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
