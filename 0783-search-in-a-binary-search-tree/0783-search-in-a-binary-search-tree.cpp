@@ -12,24 +12,13 @@
 class Solution {
 public:
     TreeNode* search(TreeNode* root, int val) {
-    // Base case: If the root is NULL, the value is not found in the BST.
-    if(root == NULL) return NULL;
-
-    // If the current node's value matches the target value, return the current node.
-    if(root->val == val) {
-        return root;
+    // Base case
+    if(root == NULL || root->val == val) {
+        return root; // Return root if NULL or value matches.
     }
 
-    // If the target value is smaller than the current node's value,
-    // recursively search in the left subtree (as per BST properties).
-    if(root->val > val) {
-        return search(root->left, val);
-    }
-    else {
-        // If the target value is greater than the current node's value,
-        // recursively search in the right subtree (as per BST properties).
-        return search(root->right, val);
-    }
+    // Recursively search left or right subtree based on comparison.
+    return (val < root->val) ? search(root->left, val) : search(root->right, val);
     }
 
     TreeNode* searchBST(TreeNode* root, int val) {
