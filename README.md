@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0437-path-sum-iii](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0437-path-sum-iii](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,11 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0437-path-sum-iii) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -167,4 +171,9 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
