@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0088-merge-sorted-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | [0015-3sum](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -186,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Practiced by M
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Im-Pranshu/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
