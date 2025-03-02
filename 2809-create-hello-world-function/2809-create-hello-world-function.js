@@ -1,5 +1,3 @@
-var createHelloWorld = function() {
-    return function() {
-        return "Hello World";
-    }
+var createHelloWorld = () => {
+    return () => "Hello World";
 };
