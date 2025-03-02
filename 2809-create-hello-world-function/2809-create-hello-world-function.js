@@ -1,15 +1,5 @@
-/**
- * @return {Function}
- */
 var createHelloWorld = function() {
-    
-    return function(...args) {
-        let ans = "Hello World";
-        return ans;
+    return function() {
+        return "Hello World";
     }
 };
-
-/**
- * const f = createHelloWorld();
- * f(); // "Hello World"
- */
