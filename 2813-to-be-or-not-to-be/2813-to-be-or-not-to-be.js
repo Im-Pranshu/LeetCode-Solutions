@@ -4,14 +4,10 @@
  */
 var expect = function(val) {
     return {
-        toBe: (v) => {
-            if(v===val) return true;
-            else throw new Error("Not Equal");
-        },
-        notToBe: (v) => {
-            if(v!==val) return true;
-            else throw new Error("Equal");
-        }
+        // Method to check for eql
+        toBe: (v) => v===val || (() => {throw new Error("Not Equal")})(),
+        // Method to check for un-eql
+        notToBe: (v) => v!==val || (() => {throw new Error("Equal")})()
     }
 };
 
