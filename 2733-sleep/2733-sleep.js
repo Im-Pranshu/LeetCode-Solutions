@@ -4,7 +4,7 @@
  */
 async function sleep(millis) {
     // return a promise and resolve it after millis
-    return new Promise((resolve) => setTimeout(resolve, millis))
+    await new Promise((resolve) => setTimeout(resolve, millis))
 }
 
 /** 
