@@ -5,22 +5,13 @@
  */
 var timeLimit = function(fn, t) {
     
-    // Return an asynchronous function that accepts any number of arguments.
     return async function(...args) {
-        
-        // Return a new Promise to handle asynchronous behavior and time limit.
-        return new Promise((resolve, reject) => {
+        return new Promise((resolve,reject)=>{
+            setTimeout(()=>reject("Time Limit Exceeded"),t);
 
-            // Set a timeout to reject the promise if time exceeds the limit `t`.
-            setTimeout(() => reject("Time Limit Exceeded"), t);
-
-            // Call the original function `fn` with the provided arguments.
-            // If `fn` resolves, the promise is resolved with its result.
-            // If `fn` rejects, the promise is rejected with the error.
             fn(...args).then(resolve).catch(reject);
-        });
+        })
     }
-    
 };
 
 /**
